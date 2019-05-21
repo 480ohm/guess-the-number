@@ -1,2 +1,2 @@
-# guess-the-number
-A simple guess the number game written in Python
+# Guess the Number
+A simple guess the number game written in Python. Made for fun and learning.
