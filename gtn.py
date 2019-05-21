@@ -1,4 +1,4 @@
-rom random import randint
+from random import randint
 
 print("Guess the Number!\n")
 print("The number will be anywhere from 1 to 100.\n")
